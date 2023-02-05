@@ -1,7 +1,4 @@
-/data
-class_names.txt
-mini_classes.txt
-test_labels.txt
-test_set.txt
-train_labels.txt
-train_set.txt
+/data/*
+
+/saving/*
+
